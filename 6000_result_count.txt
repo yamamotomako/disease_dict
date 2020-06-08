@@ -1,0 +1,678 @@
+depression,452
+schizophrenia,246
+ptosis,130
+necrosis,124
+alzheimer's disease,121
+degeneration,113
+huntington's disease,97
+atherosclerosis,90
+dysregulation,86
+diabetes,85
+neurotoxicity,78
+seizures,77
+dementia,76
+cataract,76
+parkinson's disease,75
+hypertension,70
+neurotoxin,68
+major depressive disorder,66
+epilepsy,60
+obesity,59
+carcinoma,59
+psychosis,58
+multiple sclerosis,57
+cardiovascular disease,57
+parasite,57
+hepatitis,54
+breast cancer,53
+immunodeficiency,50
+arthritis,50
+stroke,48
+chronic inflammation,44
+amyotrophic lateral sclerosis,42
+blastoma,42
+rheumatoid arthritis,40
+hepatitis c,39
+bipolar disorder,38
+colorectal cancer,38
+human immunodeficiency virus,37
+shock,36
+glioma,36
+convulsion,36
+chronic kidney disease,34
+polyp,34
+sepsis,33
+malaria,33
+trauma,32
+influenza,32
+migraine,32
+melanoma,31
+glioblastoma,30
+lung cancer,26
+myocardial infarction,26
+systemic lupus erythematosus,26
+hyperactivity,25
+metastasis,25
+chronic hepatitis,25
+hypoxia,25
+mood disorders,25
+viral infection,24
+suicide,24
+agenesis,23
+asthma,23
+pneumonia,23
+fibrosis,22
+colitis,22
+heart disease,22
+pigmentation,22
+type 2 diabetes,21
+ganglion,20
+myalgia,20
+metabolic syndrome,20
+rectal cancer,20
+leukemia,20
+cephalopathy,20
+encephalopathy,20
+diabetes mellitus,19
+meningitis,18
+hypotension,18
+bladder cancer,18
+lupus,18
+brain tumor,18
+infectious diseases,18
+anorexia,18
+coma,18
+ulcer,17
+insufficiency,17
+weight loss,17
+cataracts,17
+encephalomyelitis,16
+myelitis,16
+atrophy,16
+infarction,16
+erythema,16
+lymphoma,16
+glycemia,16
+anemia,15
+fever,15
+nuclear cataract,15
+tuberculosis,14
+encephalitis,14
+crohn's disease,14
+lupus erythematosus,14
+gliosis,14
+hypofunction,14
+prostate cancer,13
+irritable bowel syndrome,13
+neuroblastoma,13
+dermatitis,13
+bacterial infection,13
+inflammatory bowel disease,12
+chronic pain,12
+colon cancer,12
+renal insufficiency,12
+atopic dermatitis,12
+angina pectoris,12
+coronary artery disease,12
+ovarian cancer,12
+eosinophilia,12
+adenocarcinoma,11
+scleroderma,11
+headache,11
+chronic renal failure,11
+osteoporosis,10
+ulcerative colitis,10
+pancreatic cancer,10
+spinal cord injury,10
+liver disease,10
+toxoplasmosis,10
+hepatocellular carcinoma,10
+moles,10
+uremia,10
+hepatitis b,10
+fibromyalgia,9
+autism spectrum disorder,9
+nephritis,9
+edema,9
+spasm,9
+hypothermia,9
+herpes simplex,9
+osteoarthritis,9
+hyperglycemia,9
+gastric cancer,8
+acute inflammation,8
+systemic sclerosis,8
+ataxia,8
+allergic rhinitis,8
+algesia,8
+intolerance,8
+angina,8
+diarrhea,8
+malignant tumor,8
+allergy,8
+end-stage renal disease,8
+granuloma,7
+obstruction,7
+pulmonary disease,7
+ranula,7
+glomerulonephritis,7
+heart failure,7
+chronic fatigue syndrome,7
+fracture,7
+cirrhosis,7
+bacterial meningitis,7
+septic shock,7
+squamous cell carcinoma,7
+traumatic brain injury,7
+acute pancreatitis,7
+pancreatitis,7
+stable angina,7
+asphyxia,7
+atopy,7
+psoriasis,7
+yellow fever,7
+fungal infection,7
+cytomegalovirus,7
+seizure disorder,7
+nephropathy,6
+advanced cancer,6
+preeclampsia,6
+hemorrhage,6
+rhinitis,6
+anxiety disorders,6
+malnutrition,6
+acute myocardial infarction,6
+postpartum depression,6
+viremia,6
+pneumococcal meningitis,6
+meningioma,6
+hepatic encephalopathy,6
+type 1 diabetes,6
+nephrotoxicity,6
+porphyria,6
+sarcoma,6
+hypoglycemia,6
+alopecia,6
+cystic fibrosis,6
+hyperfunction,6
+splenomegaly,6
+paralysis,6
+neuropathy,6
+arrhythmia,6
+fasciitis,6
+myoclonus,6
+uveal melanoma,6
+mental illness,5
+chronic obstructive pulmonary disease,5
+renal cell carcinoma,5
+milia,5
+thyroid cancer,5
+menopause,5
+e. coli,5
+chlamydia trachomatis,5
+trachoma,5
+acute liver failure,5
+acquired immunodeficiency syndrome,5
+hyperalgesia,5
+thrombosis,5
+insomnia,5
+migraine headache,5
+neoplasm,5
+dysplasia,5
+adenoma,5
+vitiligo,5
+malignant melanoma,5
+aspergillosis,5
+chronic granulomatous disease,5
+aseptic meningitis,4
+down syndrome,4
+cholesterolemia,4
+hypercholesterolemia,4
+lung disease,4
+toxemia,4
+gait,4
+liver cancer,4
+schizoaffective disorder,4
+borreliosis,4
+tourette syndrome,4
+hip fracture,4
+chorea,4
+lyme disease,4
+metabolic diseases,4
+morphea,4
+phenylketonuria,4
+uricemia,4
+lung injury,4
+cervical cancer,4
+apnea,4
+sleep apnea,4
+conjunctivitis,4
+mycosis,4
+elevated blood pressure,4
+polio,4
+migraine with aura,4
+helicobacter pylori,4
+cardiomyopathy,4
+attention-deficit/hyperactivity disorder,4
+thrombocytopenia,4
+oral cancer,4
+eosinophilic fasciitis,4
+astrocytoma,4
+pertussis,4
+dystonia,4
+kidney cyst,4
+aneurysm,3
+gastritis,3
+measles,3
+infertility,3
+embolism,3
+thromboembolism,3
+venous thromboembolism,3
+iga nephropathy,3
+Lewis lung carcinoma,3
+myocardial ischemia,3
+weakness,3
+hyperlipidemia,3
+esophageal cancer,3
+hydrocephalus,3
+pancreatic carcinoma,3
+myelodysplastic syndromes,3
+colon carcinoma,3
+fatty liver,3
+hyperplasia,3
+rett syndrome,3
+diabetic retinopathy,3
+retinopathy,3
+ascites,3
+hyperuricemia,3
+basal cell,3
+nasal polyp,3
+rhinosinusitis,3
+sinusitis,3
+nasal polyps,3
+obstructive sleep apnea,3
+carditis,3
+myocarditis,3
+colic,3
+hepatic steatosis,3
+albuminuria,3
+concussion,3
+tetanus,3
+endometriosis,3
+abortion,3
+spontaneous abortion,3
+acute hepatitis,3
+gout,3
+dermatosis,3
+clinical depression,3
+dissemination,3
+candidiasis,3
+hepatitis a,3
+bacteremia,3
+tuberous sclerosis,3
+swelling,3
+active hepatitis,3
+chronic active hepatitis,3
+dehydration,3
+tonic-clonic seizure,3
+anoxia,3
+septicemia,3
+myositis,3
+rash,3
+bronchial asthma,2
+interstitial lung disease,2
+multiple myeloma,2
+myeloma,2
+pulmonary hypertension,2
+bone metastasis,2
+normal pressure hydrocephalus,2
+ureteral obstruction,2
+sleep disorders,2
+varicella,2
+hypothyroidism,2
+respiratory syncytial virus,2
+viral meningitis,2
+alcoholic fatty liver,2
+juvenile idiopathic arthritis,2
+huntington's chorea,2
+papillary thyroid carcinoma,2
+dysphoria,2
+acute coronary syndrome,2
+skin cancer,2
+brain metastases,2
+rubella,2
+post-traumatic stress disorder,2
+pruritus,2
+perforation,2
+fibrillation,2
+coagulopathy,2
+abdominal aortic aneurysm,2
+aortic aneurysm,2
+acute respiratory distress syndrome ,2
+stenosis,2
+primary biliary cirrhosis,2
+aplasia,2
+metaplasia,2
+alcohol use disorder,2
+endometrial cancer,2
+hypertrophy,2
+vasculitis,2
+cerebral palsy,2
+glaucoma,2
+hepatic fibrosis,2
+hyperparathyroidism,2
+high blood pressure,2
+nicotine addiction,2
+acute renal failure,2
+brain death,2
+papilloma,2
+mastocytosis,2
+enteropathy,2
+diabetic nephropathy,2
+renal dysfunction,2
+eczema,2
+drug abuse,2
+dengue hemorrhagic fever,2
+hemorrhagic fever,2
+dengue fever,2
+dyspepsia,2
+anorexia nervosa,2
+cystitis,2
+mild cognitive impairment,2
+hiv/aids,2
+tonsillitis,2
+unstable angina,2
+hypercortisolism,2
+bronchiolitis,2
+malignant mesothelioma,2
+mesothelioma,2
+chagas disease,2
+coccidioidomycosis,2
+vascular dementia,2
+pheochromocytoma,2
+renal cancer,2
+bleeding,2
+bradycardia,2
+silicosis,2
+nasopharyngeal carcinoma,2
+vaginal candidiasis,2
+binge drinking,2
+chronic lymphocytic leukemia,2
+immune thrombocytopenia,2
+delirium,2
+ocular hypertension,2
+hypometabolism,2
+stomatitis,2
+dwarfism,2
+oligodendroglioma,2
+recurrent breast cancer,2
+diabetic cataract,2
+multiple organ failure,2
+cervical dystonia,2
+vertigo,2
+poisoning,2
+alcohol addiction,2
+giant cell,2
+inherited metabolic disorder,2
+hyperammonemia,2
+partial block,2
+essential hypertension,2
+myelopathy,2
+paraparesis,2
+paresis,2
+intoxication,2
+deafness,2
+neuritis,2
+grand mal,2
+retinoblastoma,2
+polyneuropathy,2
+phlebitis,2
+crabs,2
+febrile convulsion,2
+porphyria cutanea tarda,2
+hodgkin's disease,2
+hodgkin's lymphoma,2
+sickle cell disease,1
+panencephalitis,1
+orchitis,1
+male infertility,1
+transposition of the great arteries,1
+lewy body dementia,1
+ulceration,1
+reticulocyte,1
+poroma,1
+temporomandibular disorders,1
+personality disorders,1
+narcolepsy,1
+generalized anxiety disorder,1
+ileitis,1
+muscle fatigue,1
+incontinence,1
+urinary incontinence,1
+corneal disease,1
+enteritis,1
+miscarriage,1
+hypoxemia,1
+zoster,1
+low testosterone,1
+subfertility,1
+autoimmune hepatitis,1
+synovitis,1
+dry mouth,1
+goiter,1
+benign tumor,1
+thyroid nodules,1
+merkel cell carcinoma,1
+rotavirus,1
+mastitis,1
+leprosy,1
+hydronephrosis,1
+nephrosis,1
+localized scleroderma,1
+limited scleroderma,1
+allergic diarrhea,1
+nausea,1
+vomiting,1
+atrial fibrillation,1
+hyperinsulinemia,1
+zoonosis,1
+urinary tract infection,1
+carcinomatosis,1
+aortic stenosis,1
+leukodystrophy,1
+biliary cirrhosis,1
+lymphocytopenia,1
+anaplasmosis,1
+retained placenta,1
+enterocolitis,1
+allergic conjunctivitis,1
+bradykinesia,1
+hepatic porphyria,1
+leiomyosarcoma,1
+pleomorphic sarcoma,1
+gastrointestinal stromal tumor,1
+solitary fibrous tumor,1
+undifferentiated pleomorphic sarcoma,1
+urticaria,1
+ileus,1
+induration,1
+hypocalcemia,1
+ventricular hypertrophy,1
+left ventricular hypertrophy,1
+mycosis fungoides,1
+cutaneous t-cell lymphoma,1
+asthenia,1
+myasthenia gravis,1
+gestational diabetes,1
+condyloma,1
+end stage renal disease,1
+muscular dystrophy,1
+allergic contact dermatitis,1
+contact dermatitis,1
+diverticulosis,1
+visceral pain,1
+chronic gastritis,1
+intermittent explosive disorder,1
+ewing sarcoma,1
+agoraphobia,1
+uveitis,1
+invasive mole,1
+adult attention-deficit/hyperactivity disorder,1
+pituitary adenoma,1
+back pain,1
+premenstrual syndrome,1
+cluster headache,1
+histiocytosis,1
+hepatic tumor,1
+adult adhd,1
+salmonella infection,1
+food allergy,1
+atheroma,1
+bacterial vaginosis,1
+prediabetes,1
+gastric ulcer,1
+cholestasis,1
+microgliosis,1
+obsessive-compulsive disorder,1
+constipation,1
+aplastic anemia,1
+ventricular dysfunction,1
+heart attack,1
+chronic myeloid leukemia,1
+cerebral infarction,1
+cholera,1
+endotheliosis,1
+redness,1
+osteopenia,1
+lung tumor,1
+peritonitis,1
+c. difficile colitis,1
+c. difficile infection,1
+promyelocytic leukemia,1
+schistosomiasis,1
+esophageal injury,1
+esophagitis,1
+fulminant hepatitis,1
+retinitis,1
+contusion,1
+atopic asthma,1
+duodenal ulcer,1
+peptic ulcer,1
+metritis,1
+polyarthritis,1
+anaphylaxis,1
+complex regional pain syndrome,1
+pleurisy,1
+pleuritis,1
+tuberculous pleuritis,1
+steatohepatitis,1
+microcyst,1
+neuroepithelioma,1
+torsion,1
+nicotine dependence,1
+childhood obesity,1
+cystadenoma,1
+pancreatic cyst,1
+pancreatic cysts,1
+bronchopneumonia,1
+malignant lymphoma,1
+lymphocytic leukemia,1
+sjogren's syndrome,1
+hay fever,1
+peripheral neuropathy,1
+psychosomatic disorder,1
+invasive ductal carcinoma,1
+Japanese encephalitis,1
+west nile virus,1
+nonalcoholic fatty liver disease,1
+vulvar cancer,1
+basal cell carcinoma,1
+pustule,1
+throat cancer,1
+arthropathy,1
+septic arthritis,1
+diabetic ketoacidosis,1
+Wilms' tumor,1
+hemolytic anemia,1
+kawasaki disease,1
+graves' disease,1
+hemophilia,1
+periodontitis,1
+piles,1
+atypical depression,1
+benign prostatic hyperplasia,1
+dementia praecox,1
+hepatosplenomegaly,1
+lymphadenopathy,1
+mononucleosis,1
+blepharospasm,1
+brain infarction,1
+cerebral toxoplasmosis,1
+intracranial hypertension,1
+syncope,1
+idiopathic intracranial hypertension,1
+pseudotumor cerebri,1
+vascular obstruction,1
+hemolysis,1
+hypercapnia,1
+claudication,1
+intermittent claudication,1
+ectopic pregnancy,1
+stupor,1
+insulin resistance syndrome,1
+bruxism,1
+abscess,1
+scarlet fever,1
+toxic shock,1
+cramp,1
+apus,1
+serositis,1
+carcinoid,1
+carcinoid syndrome,1
+presbyopia,1
+fibromyoma,1
+myoma,1
+vacuolar degeneration,1
+choroiditis,1
+loss of bladder control,1
+anomaly,1
+nephrotic syndrome,1
+alveolitis,1
+idiopathic pulmonary fibrosis,1
+sarcoidosis,1
+pulmonary fibrosis,1
+grand mal seizure,1
+bulimia nervosa,1
+akinesia,1
+dilated cardiomyopathy,1
+orthostatic hypotension,1
+lyme borreliosis,1
+leukocytosis,1
+thrombophlebitis,1
+hypotonia,1
+arteritis,1
+viral pneumonia,1
+paresthesia,1
+epidermoid carcinoma,1
+urolith,1
+urolithiasis,1
+dysrhythmia,1
+dysrhythmias,1
+lordosis,1
+cervical carcinoma,1
+polyneuritis,1
+tachycardia,1
+hyperthermia,1
+polymorphous light eruption,1
+hyperoxia,1
+dumping syndrome,1
+poikiloderma,1
+pulmonary silicosis,1
+skin rash,1
+hemosiderosis,1
+dermatomyositis,1
+burns,1
+acanthoma,1
+keratoacanthoma,1
+typhoid fever,1
+red eye,1
