@@ -1,5 +1,6 @@
 # disease_dict
-I created disease dictionary that were obtained from the web, and frequency of tokens(from pubmed articles about kynurenine) were caclulated. <br>
+I created disease dictionary that were obtained from the web mainly from Mayo clinic homepage, and pubmed 800-900 articles (searhing word is 'kynurenine') were obtained from NCBI, <br>
+and frequency of tokens were counted. <br>
 
 <h3>Why kynurenine?<br></h3>
 <h4>It might be realated to tryptophan metabolism.</h4>
