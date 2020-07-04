@@ -3,4 +3,4 @@ I created disease dictionary that were obtained from the web, and frequency of t
 
 <h3>Why kynurenine?<br></h3>
 <h4>It might be realated to tryptophan metabolism.</h4>
-<img src=./kynurenine_disease.png</img>
+<img src=./kynurenine_disease.png style='width:60%; height:60%;'></img>
