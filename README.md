@@ -1,5 +1,5 @@
 # キヌレニンが意味するもの
-I created disease dictionary that were obtained from the web mainly from Mayo clinic homepage, and pubmed 800-900 articles (searhing word is 'kynurenine') were obtained from NCBI, <br>
+I created disease dictionary that were obtained from the web mainly from Mayo clinic homepage, and pubmed 800-900 articles (searching word is 'kynurenine') were obtained from NCBI, <br>
 and frequency of tokens were counted. <br>
 
 <h3>Why kynurenine?<br></h3>
