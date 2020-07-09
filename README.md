@@ -10,6 +10,6 @@ and frequency of tokens were counted. <br>
 
 Tryptophan is related to many pathways, and one of those is serotonin synthesis pathway.<br>
 Serotonin is strongly related to the nerve systems.<br>
-So I think this result is not so incorrect
+So I think the result is not so weird.
 
 Then about this result, when in couting the tokens of diseases words, I removed manually some of too famous word such as "cancer" (the single word) because of inassignments of cancer type, and incomplete words because of unsuitableness for systematical matching.<br>
